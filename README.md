@@ -6,7 +6,7 @@ This GitHub repository provides the supplementary data and the custom code refer
 
 All files are publicly available and can be used for further research or other applications. However, if you utilize these resources in your work, we kindly request that you cite our original publication.
 
-**Co-Option and De Novo Gene Evolution Underlie Molluscan Shell Diversity.** Felipe Aguilera, Carmel McDougall, Bernard M. Degnan. *Molecular Biology and Evolution* **34**:779-792 (2017). https://doi.org/10.1093/molbev/msw294
+**Xenacoelomorph Neuropeptidomes Reveal a Major Expansion of Neuropeptide Systems during Early Bilaterian Evolution.** Daniel Thiel, Mirita Franz-Wachtel, Felipe Aguilera, Andreas Hejnol. *Molecular Biology and Evolution* **35**:2528-2543 (2018). https://doi.org/10.1093/molbev/msy160
 
 **Abstract**
 
