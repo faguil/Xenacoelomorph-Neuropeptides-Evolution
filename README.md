@@ -24,7 +24,17 @@ The files in this repository are ready for use. Simply click on the file, and yo
 
 ## Index of data file contents
 
+[01-Supplementary-Figures.pdf](https://github.com/faguil/Xenacoelomorph-Neuropeptides-Evolution/blob/main/01-Supplementary-Figures.pdf) contains some of the supplementary figures used in this study.
 
+- **Supplementary Figure 1.** Conserved metazoan neuropeptides of xenacoelomorphs.
+- **Supplementary Figure 2.** DiffKAP dataflow diagram.
+- **Supplementary Figure 3.** Flux map of the central carbon metabolism for *Tetraselmis* sp. M8 under nitrogen limiting conditions at 72 h.
+- **Supplementary Figure 4.** Distribution of Gene ontology (GO) terms assigned to annotated differentially expressed reads (DERs) in Control and Nitrogen-starved treatments.
+- **Supplementary Figure 5.** Growth and lipid accumulation of *Tetraselmis* sp. M8 in a time-course experiment using control and nitrogen-starved cultures.
+- **Supplementary Figure 6.** Flux map of the central carbon metabolism under the lipid accumulation for *Tetraselmis* sp. M8 under nitrogen limiting conditions at 24 h.
+- **Supplementary Figure 7.** qRT-PCR data of fatty acid pathway genes.
+- **Supplementary Figure 8.** qRT-PCR data of TAG pathway genes.
+- **Supplementary Figure 9.** qRT-PCR data of lipid catabolism pathway genes.
 
 ## How to download code files
 
