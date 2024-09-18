@@ -46,8 +46,4 @@ The files in this repository are ready for use. Simply click on the file, and yo
 
 ## How to download code files
 
-The code in this repository is all stored in the [00-Code folder](https://github.com/faguil/Xenacoelomorph-Neuropeptides-Evolution/tree/main/00-Code), and can be downloaded as described above. 
-
-Most scripts were built in R or Python and are therefore in .R, .py or .ipynb format, which can be visualised in your IDE of choice (e.g., RStudio, Visual Studio Code, etc.). Some of them, specially those that combine multiple steps across different programming languages or softwares called in the command line terminal, were put together in .txt or .docx files, from which the different code chunks can be copied.
-
-We believe that the script file names and the comments in the scripts make them self-explanatory, but please do not hesitate to reach out if you have any doubts or questions.
+The code in this repository is stored in the [00-Code folder](https://github.com/faguil/Xenacoelomorph-Neuropeptides-Evolution/tree/main/00-Code) and can be downloaded as outlined above. The protein_motif_searching.pl script, written in Perl, scans one or more protein motif patterns in FASTA files. For detailed instructions on how to use the script, please refer to the README file in the 00-Code folder. While we believe the script and accompanying README make it largely self-explanatory, don’t hesitate to reach out if you have any questions or concerns.
