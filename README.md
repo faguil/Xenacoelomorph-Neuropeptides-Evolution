@@ -34,6 +34,8 @@ The files in this repository are ready for use. Simply click on the file, and yo
 
 [03-Xenacoelomorph-neuropeptide-precursors-and-reference-sequences.pdf](https://github.com/faguil/Xenacoelomorph-Neuropeptides-Evolution/blob/main/03-Xenacoelomorph-neuropeptide-precursors-and-reference-sequences.pdf) contains the predicted xenacoelomorph preproneuropeptides and reference sequences used in this study.
 
+[04-Xenacoelomorph_neuropeptide_GPCRs.txt](https://github.com/faguil/Xenacoelomorph-Neuropeptides-Evolution/blob/main/04-Xenacoelomorph_neuropeptide_GPCRs.txt) contains xenacoelomorph neuropeptide GPCR protein sequences used in this study.
+
 ## How to download code files
 
 The code in this repository is all stored in the 00-Code folder, and can be downloaded as described above. Most scripts were built in R or Python and are therefore in .R, .py or .ipynb format, which can be visualised in your IDE of choice (e.g., RStudio, Visual Studio Code, etc.). Some of them, specially those that combine multiple steps across different programming languages or softwares called in the command line terminal, were put together in .txt or .docx files, from which the different code chunks can be copied.
