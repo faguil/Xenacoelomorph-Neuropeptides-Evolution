@@ -23,3 +23,11 @@ Neuropeptides are neurosecretory signaling molecules in protostomes and deuteros
 The files in this repository are ready for use. Simply click on the file, and you will be directed to the GitHub webpage to save it to your device.
 
 ## Index of data file contents
+
+
+
+## How to download data files
+
+The code in this repository is all stored in the 00-Code folder, and can be downloaded as described above. Most scripts were built in R or Python and are therefore in .R, .py or .ipynb format, which can be visualised in your IDE of choice (e.g., RStudio, Visual Studio Code, etc.). Some of them, specially those that combine multiple steps across different programming languages or softwares called in the command line terminal, were put together in .txt or .docx files, from which the different code chunks can be copied.
+
+We believe that the script file names and the comments in the scripts make them self-explanatory, but please do not hesitate to reach out if you have any doubts or questions.
