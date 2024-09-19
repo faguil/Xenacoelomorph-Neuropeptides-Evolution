@@ -22,6 +22,10 @@ Neuropeptides are neurosecretory signaling molecules in protostomes and deuteros
 
 The files in this repository are ready for use. Simply click on the file, and you will be directed to the GitHub webpage to save it to your device.
 
+## How to download code files
+
+The code in this repository is stored in the [00-Code folder](https://github.com/faguil/Xenacoelomorph-Neuropeptides-Evolution/tree/main/00-Code) and can be downloaded as outlined above. The ***protein_motif_searching.pl*** script, written in Perl, scans one or more protein motif patterns in FASTA files. For detailed instructions on how to use the script, please refer to the README file in the 00-Code folder. While we believe the script and accompanying README make it largely self-explanatory, do not hesitate to reach out if you have any questions or concerns.
+
 ## Index of data file contents
 
 [01-Supplementary-Figures.pdf](https://github.com/faguil/Xenacoelomorph-Neuropeptides-Evolution/blob/main/01-Supplementary-Figures.pdf) contains some of the supplementary figures used in this study.
@@ -47,7 +51,3 @@ The files in this repository are ready for use. Simply click on the file, and yo
 [06-Alignments](https://github.com/faguil/Xenacoelomorph-Neuropeptides-Evolution/tree/main/06-Alignments) This folder contains the alignment files used in constructing the phylogenetic trees for this study.
 
 [07-Phylogenetic-trees](https://github.com/faguil/Xenacoelomorph-Neuropeptides-Evolution/tree/main/07-Phylogenetic-trees06-treeBase-phylogenetic-tree-files) This folder contains all the phylogenetic trees generated in this study using FastTree and RAxML software.
-
-## How to download code files
-
-The code in this repository is stored in the [00-Code folder](https://github.com/faguil/Xenacoelomorph-Neuropeptides-Evolution/tree/main/00-Code) and can be downloaded as outlined above. The ***protein_motif_searching.pl*** script, written in Perl, scans one or more protein motif patterns in FASTA files. For detailed instructions on how to use the script, please refer to the README file in the 00-Code folder. While we believe the script and accompanying README make it largely self-explanatory, do not hesitate to reach out if you have any questions or concerns.
