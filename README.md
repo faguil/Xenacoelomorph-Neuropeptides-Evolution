@@ -52,7 +52,7 @@ The files in this repository are ready for use. Simply click on the file, and yo
 
 [07-Phylogenetic-trees](https://github.com/faguil/Xenacoelomorph-Neuropeptides-Evolution/tree/main/07-Phylogenetic-trees06-treeBase-phylogenetic-tree-files) This folder contains all the phylogenetic trees generated in this study using FastTree and RAxML software.
 
-[08-CLANS-clustermaps](https://github.com/faguil/Xenacoelomorph-Neuropeptides-Evolution/tree/main/08-CLANS-clustermaps) This folder contains cluster analysis of rhodopsin- and secretin-type neuropeptife GPCRs.
+[08-CLANS-clustermaps](https://github.com/faguil/Xenacoelomorph-Neuropeptides-Evolution/tree/main/08-CLANS-clustermaps) This folder contains cluster analysis of rhodopsin- and secretin-type neuropeptife GPCRs. **Some files are quite large, so the download may take some time to start.** Please be patient, these files are securely stored in GitHub Large File Storage (LFS), and the download will begin shortly.
 
 [09-Xenacoelomorph-neuropeptide-sequences](https://github.com/faguil/Xenacoelomorph-Neuropeptides-Evolution/tree/main/09-Xenacoelomorph-neuropeptide-sequences) This folder contains xenacoelomorph neuropeptide precursors and neuropeptide GPCR sequences identified in this study.
 
